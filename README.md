@@ -5,16 +5,16 @@ Es un desafio propuesto del Programa ONE de Oracle y Alura Latam - G7.
 la Finalidad es desplegar un menu de opciones donde el usuario pueda elegir acciones con relacion a libros y autores para dicha funcionalidad haremos uso de la api Gutendex, 
 que nos devolvera resultados con respecto a libros y autores.
 
- *1- Buscar libro por titulo.
- *2- Buscar libros registrados en la base de datos.
- *3- Listar autores registrados
- *4- Listar autores vivos en un determinado año
- *5- Listar libros por idioma
- *----------- Opciones Adicionales -------------
- *6- Generar estadisticas (premium).
- *7- Ver top 10 de los libros más descargados.
- *8- Buscar por Nombre del Autor.
- *9- Listar autores por cantidad de libros.
+ * 1- Buscar libro por titulo.
+ * 2- Buscar libros registrados en la base de datos.
+ * 3- Listar autores registrados
+ * 4- Listar autores vivos en un determinado año
+ * 5- Listar libros por idioma
+ * ----------- Opciones Adicionales -------------
+ * 6- Generar estadisticas (premium).
+ * 7- Ver top 10 de los libros más descargados.
+ * 8- Buscar por Nombre del Autor.
+ * 9- Listar autores por cantidad de libros.
  * 
 Segun la accion seleccionada por el usuario se consultara a la api por un titulo de libro si en caso ya se encuentra en la base de datos se emitara mensaje que ya se encuentra registrado,
 para la base de datos se usa PostgreSQL version 17.
